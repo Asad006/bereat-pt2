@@ -2,7 +2,7 @@
 
 Submitted by: **Asad Merouani**
 
-**BeReal pt2** is an app that enables the user to add their pictures into the app and share them with their on the app.
+**BeReal pt2 ** is an app that enables the user to add their pictures into the app and share them with their on the app.
 
 Time spent: **2** hours spent in total
 
