@@ -10,10 +10,10 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ X] User can launch camera to take photo instead of photo library
+- [X] User can launch camera to take photo instead of photo library
 - [ X] User session persists when application is closed and relaunched
-- [ X] Users are able to log out and return to sign in page
-- [ X] Users are NOT able to see other photos until they upload their own	
+- [X] Users are able to log out and return to sign in page
+- [X] Users are NOT able to see other photos until they upload their own	
  
 The following **optional** features are implemented:
 
@@ -28,14 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Asad006/bereat-pt2/blob/main/berealpt2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with mac ios screan recorder.
 
 ## Notes
 
@@ -43,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Asad merouani]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
